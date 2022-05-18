@@ -10,4 +10,6 @@ Pacman game website - written in html, css, JS, JQuery.
   2. Pill - If you eat it, you'll get one more live.
   3. Present - If you eat it, you'll gain 50 points.
 
+https://naama133.github.io/Pacman-Game/
+
 Good Luck!
